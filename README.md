@@ -13,7 +13,11 @@ For simplicity as it is a test task:
 - No config - only hardcoded values.
 - Models and repository implemented coupled, no separation.
 - No input validation - simplicity.
-- No makefile committed.
+- No makefile and deploy directory committed.
+
+## Deploy
+
+Deployed on hetzner cloud via terraform.
 
 ## Run
 
